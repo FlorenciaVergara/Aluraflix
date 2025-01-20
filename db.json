@@ -1,0 +1,61 @@
+{
+  "videos": [
+    {
+      "id": "0",
+      "titulo": "Conociendo la API de Open AI #aluramás",
+      "src": "https://www.youtube.com/watch?v=tDG29s1IVx8",
+      "imagen": "https://img.youtube.com/vi/tDG29s1IVx8/0.jpg",
+      "categoria": "BACK END",
+      "descripcion": "Aprende a crear APIs utilizando Node.js, un entorno de ejecución de JavaScript popular para aplicaciones backend."
+    },
+    {
+      "id": "1",
+      "titulo": "Introducción a React",
+      "src": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "imagen": "https://img.youtube.com/vi/UuAX5azcvDQ/0.jpg",
+      "categoria": "FRONT END",
+      "descripcion": "Un curso introductorio sobre React, una biblioteca JavaScript para construir interfaces de usuario interactivas."
+    },
+    {
+      "id": "2",
+      "titulo": "Nuevo Título",
+      "src": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "imagen": "https://img.youtube.com/vi/Z024LSCMqFk/0.jpg",
+      "categoria": "FRONT END",
+      "descripcion": "Descripción pendiente del video con título 'Nuevo Título'."
+    },
+    {
+      "id": "3",
+      "titulo": "Nuevo Título",
+      "src": "https://www.youtube.com/watch?v=LLt7FreeHfQ",
+      "imagen": "https://img.youtube.com/vi/LLt7FreeHfQ/0.jpg",
+      "categoria": "FRONT END",
+      "descripcion": "En este video aprenderás sobre los patrones de diseño más utilizados en el desarrollo con JavaScript."
+    },
+    {
+      "id": "4",
+      "titulo": "Nuevo Título",
+      "src": "https://www.youtube.com/watch?v=XuSXJ9DUcvY",
+      "imagen": "https://img.youtube.com/vi/XuSXJ9DUcvY/0.jpg",
+      "categoria": "BACK END",
+      "descripcion": "Una comparación entre las bases de datos relacionales y no relacionales, explicando sus diferencias y usos."
+    },
+    {
+      "id": "5",
+      "titulo": "Nuevo Título",
+      "src": "https://www.youtube.com/watch?v=vYoYr1nLUNg",
+      "imagen": "https://img.youtube.com/vi/vYoYr1nLUNg/0.jpg",
+      "categoria": "FRONT END",
+      "descripcion": "Curso de introducción a TypeScript, un superset de JavaScript que agrega tipado estático a las aplicaciones."
+    },
+    {
+      "id": "0bfc",
+      "titulo": "¿Que es SQL y NOSQL?",
+      "categoria": "BACK END",
+      "imagen": "https://img.youtube.com/vi/cLLKVd5CNLc/0.jpg",
+      "video": "",
+      "descripcion": "Descubre cómo desarrollar aplicaciones móviles multiplataforma utilizando Flutter, el framework de Google.",
+      "src": "https://www.youtube.com/watch?v=cLLKVd5CNLc"
+    }
+  ]
+}
